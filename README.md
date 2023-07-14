@@ -18,7 +18,7 @@ You can also consider donating a small amount monthly to the listed developers, 
 
 People having a sponsors page:
 
-- [Vincent Fretin](https://github.com/sponsors/vincentfretin): Working mainly on networked-aframe and aframe-inspector/aframe-editor
+- [Vincent Fretin](https://github.com/sponsors/vincentfretin): Working mainly on [networked-aframe](https://github.com/networked-aframe/networked-aframe), aframe-inspector/[aframe-editor](https://github.com/c-frame/aframe-editor) and other components in the c-frame organization.
 - [Diego Marcos](https://github.com/sponsors/dmarcos): Be aware that A-Frame is 100% independent and the current donations doesn't even cover the infrastructure cost (domain registration, build bots, ...)
 
 Note for the developers creating the issues with the label "sponsors needed":
