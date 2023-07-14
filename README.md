@@ -22,7 +22,7 @@ People having a sponsors page:
 - [Diego Marcos](https://github.com/sponsors/dmarcos): Be aware that A-Frame is 100% independent and the current donations doesn't even cover the infrastructure cost (domain registration, build bots, ...)
 
 Note for the developers creating the issues with the label "sponsors needed":
-- This repository tracker is used to link to issues outside the c-frame organization that need sponsors so the issues are visible automatically in the board linked above. Please use as the issue title "repo name: the original issue title".
+- This repository tracker is used to link to issues outside the c-frame organization that need sponsors so the issues are visible automatically in the board linked above. Please use as the issue title "repo name: the original issue title". You can also create an issue here to create a new A-Frame component.
 - Issues from other repositories in c-frame organization need to be added manually on the board. Using more than one "Auto-add to project" workflow is a paid GitHub feature and we're not currently paying for that.
 - After you added the "sponsors needed" and price labels and assigned yourself to the issue, add a comment to the issue: "You can sponsor $xx to link_to_developer_sponsors_page to expedite this fix. Find other work you can sponsor at https://github.com/c-frame/sponsorship" for a bug fix or "You can sponsor $xx to link_to_developer_sponsors_page fully or partially to work on this feature. Find other work you can sponsor at https://github.com/c-frame/sponsorship" for a feature.
 - On your sponsors page, add a link to https://github.com/c-frame/sponsorship
