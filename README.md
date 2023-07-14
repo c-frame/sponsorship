@@ -1,6 +1,6 @@
 # Sponsorship
 
-All the repositories in the [c-frame organization](https://github.com/c-frame), [networked-aframe](https://github.com/networked-aframe/networked-aframe) and [aframe](https://github.com/aframevr/aframe) repositories have in the issues tracker the purple "sponsors needed", "$100", "$50", "$30", "$20" labels and blue "sponsors goal achieved".
+All the repositories in the [c-frame organization](https://github.com/c-frame), [networked-aframe](https://github.com/networked-aframe/networked-aframe) and [aframe](https://github.com/aframevr/aframe) repositories have in the issues tracker the purple "sponsors needed", "$100", "$50", "$30", "$20", "$10" labels and blue "sponsors goal achieved".
 
 Issues having the "sponsors needed" label are waiting a one-time sponsorship from one or several individuals to the issue's assignee to work on it.
 
