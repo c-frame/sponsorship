@@ -1,6 +1,6 @@
 # Sponsorship
 
-All the repositories in the [c-frame organization](https://github.com/c-frame), [networked-aframe](https://github.com/networked-aframe/networked-aframe) and [aframe](https://github.com/aframevr/aframe) repositories have in the issues tracker the purple "sponsors needed", "$500", "$100", "$50", "$30", "$20", "$10" labels and blue "sponsors goal achieved".
+All the repositories in the [c-frame organization](https://github.com/c-frame), [networked-aframe](https://github.com/networked-aframe/networked-aframe) and [aframe](https://github.com/aframevr/aframe) repositories have in the issues tracker the purple "sponsors needed", "$500", "$100", "$50", "$30", "$20", "$10" labels and blue "sponsorship goal achieved".
 
 Issues having the "sponsors needed" label are waiting a one-time sponsorship from one or several individuals to the issue's assignee to work on it.
 
@@ -8,7 +8,7 @@ Be sure to communicate to the developer that your sponsorship is related to a sp
 
 If the donater doesn't add a comment themself, the developer will add a comment on the issue if there was any sponsorship received, respecting privacy if the donation was private, comment examples: "A private sponsor contributed $xx to the sponsorship goal. Thank you!", "This work was sponsored by a private sponsor. Thank you!", "Thanks @somebody for the sponsorship!", or "@somebody contributed $xx towards the sponsorship goal".
 
-When the developper received enough sponsorship to work on an issue, the blue label "sponsors goal achieved" is added.
+When the developper received enough sponsorship to work on an issue, the blue label "sponsorship goal achieved" is added.
 
 [Board listing the issues that need sponsors](https://github.com/orgs/c-frame/projects/2/views/1)
 
