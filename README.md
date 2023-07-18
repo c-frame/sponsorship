@@ -15,6 +15,7 @@ When the developper received enough sponsorship to work on an issue, the blue la
 If there is an issue you want to sponsor that is not listed there, please reach out to the most suitable developer for the task.
 
 You can also consider donating a small amount monthly to the listed developers, just supporting their work and the countless time they spend helping you with your questions.
+Some issues on the board don't have a price label, that just means the developer will eventually work on it if there is enough monthly sponsors.
 
 People having a sponsors page:
 
